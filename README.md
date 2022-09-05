@@ -26,3 +26,8 @@ Results
 ### Scatter Plot
 
 ![Scatter Plot](https://user-images.githubusercontent.com/104873181/188520879-297ef896-1273-4b73-8d8a-75d93cd4fed0.png)
+
+
+## Summary
+
+532 crypto currencies were analyzed in this project based on similarities in their features. Deeper analysis will be required to determine investment feasibility for Accountability Accountants
