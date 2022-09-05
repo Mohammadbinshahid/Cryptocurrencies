@@ -16,7 +16,8 @@ Results
 
 ### Elbow Curve 
 
-![Elbow Curve](https://user-images.githubusercontent.com/104873181/188520842-6f5c00cf-3847-4f6f-b8e6-f4f0bb2e5121.png)
+![Elbow Curve](https://user-images.githubusercontent.com/104873181/188520945-3ab82093-c26d-4c51-a2eb-849585efe9b2.png)
+
 
 ### 3D Plot
 
